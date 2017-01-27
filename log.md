@@ -1,30 +1,37 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+###Day 4: January 27, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Fixed navigation bar, there was an issue with not correctly enabling jQuery or bootstrap.js correctly on                       codepen. Used bootstrap grid to create a portfolio gallery to put projects as they are completed.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I found the navigation bar difficult, but managed to get help from FCC gitter groups. Once I found out that the columns had to add to 12, I managed to complete the gallery section. Quite proud with my progress on this portfolio project. Need to work on using CSS without the aid of bootstrap (or at the very least, with reduced use). Next up on FCC is javascript so I will be able to start including my own scripts in my webpages at some point in the near future.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://codepen.io/Danderson1603/pen/KaXBZm/
+---
+###Day 3: January 26, 2017
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: https://twitter.com/da_nders/status/824725303356432385
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+---
+###Day 2: January 25, 2017
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: https://twitter.com/da_nders/status/824373327594668034
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+---
+###Day 1: January 24, 2017
 
+**Today's Progress**: https://twitter.com/da_nders/status/824038463695683584
 
-### Day 1: June 27, Monday
+<!-- 
+======================
+      TEMPLATE
+======================
+###Day 0: Month 00, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:**
+
+-->
