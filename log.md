@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+###Day 5: January 28, 2017
+
+**Today's Progress**: Migrated portfolio from codepen.io to github. Launched site which will updated periodically. Started the fCC's javascript curriculum. 
+
+**Thoughts:** Found Javascript more difficult ot pick up than HTML/CSS. I'm persevering though, because I know that this will allow me to create more dynamic websites. I'm going to have to work out how to use FTP servers to make updating my website easier. For now, I'll keep it updated on github and push the updates live approximately once a week, to keep my portfolio relatively up to date.
+
+Tomorrow I will do more on Javascript and find any small projects I can start to work on for this. I will also start to write some more content for my portfolio (http://dandersoncodes.com/).
+
+**Link to work:** https://github.com/Danderson1603/danderson-portfolio
+
+---
 ###Day 4: January 27, 2017
 
 **Today's Progress**: Fixed navigation bar, there was an issue with not correctly enabling jQuery or bootstrap.js correctly on                       codepen. Used bootstrap grid to create a portfolio gallery to put projects as they are completed.
