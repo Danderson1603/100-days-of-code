@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+###Day 6: January 29, 2017
+
+**Today's Progress**: Had a lot of major issues with internet connection today. I worked a bit on my Portfolio site, mostly tidying up the code. Did some more of the javascript curriculum on FCC - focussing on functions. Created a repository to store all of the challenges or projects I complete as part of teaching myself to code. 
+
+**Thoughts:** Even though I've had internet issues most of the day, I managed to get quite a lot done. I read up on the design process of website to give me a better overview of the design processes involved. Also enjoyed tidying up the code from my portfolio; it looks much more presentable now. I am getting used to the syntax involved in javascript now and am almost ready to start developing my own functions for use in websites or other projects. 
+
+**Link to work:** [Learning to Code Repository](https://github.com/Danderson1603/learningToCode)
+
+---
 ###Day 5: January 28, 2017
 
 **Today's Progress**: Migrated portfolio from codepen.io to github. Launched site which will updated periodically. Started the fCC's javascript curriculum. 
@@ -18,6 +27,7 @@ Tomorrow I will do more on Javascript and find any small projects I can start to
 **Thoughts:** I found the navigation bar difficult, but managed to get help from FCC gitter groups. Once I found out that the columns had to add to 12, I managed to complete the gallery section. Quite proud with my progress on this portfolio project. Need to work on using CSS without the aid of bootstrap (or at the very least, with reduced use). Next up on FCC is javascript so I will be able to start including my own scripts in my webpages at some point in the near future.
 
 **Link to work:** https://codepen.io/Danderson1603/pen/KaXBZm/
+
 ---
 ###Day 3: January 26, 2017
 
