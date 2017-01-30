@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
+###Day 7: January 30, 2017
 
+**Today's Progress**: Worked my way through some more javascript exercises. Touched on JSON.
+
+**Thoughts:** Javascript has proved to be a more difficult challenge than HTML/CSS/Bootstrap. Objects being thrown in also confused things a bit. I think I am going to need to focus on the JSON/Object part of javascript a bit more. I will try and find some resources that I am able to use to help gain knowledge, or some challenges/mini projects that I can do to cement my learning
+
+**Link to work:** N/A freecodecamp curriculum
+
+
+---
 ###Day 6: January 29, 2017
 
 **Today's Progress**: Had a lot of major issues with internet connection today. I worked a bit on my Portfolio site, mostly tidying up the code. Did some more of the javascript curriculum on FCC - focussing on functions. Created a repository to store all of the challenges or projects I complete as part of teaching myself to code. 
